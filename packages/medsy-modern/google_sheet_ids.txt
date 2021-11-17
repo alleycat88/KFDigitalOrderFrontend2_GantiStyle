@@ -1,0 +1,14 @@
+service email api for patatpantat@gmail.com
+generalusage@generalusage-316208.iam.gserviceaccount.com
+
+products
+https://docs.google.com/spreadsheets/d/1B0TUlV9FOYJGbiqsa7jJOBsyDxxGAG86hprBGHtU1eY/edit?usp=sharing
+1B0TUlV9FOYJGbiqsa7jJOBsyDxxGAG86hprBGHtU1eY
+
+orders
+https://docs.google.com/spreadsheets/d/1h7dz6gX-IFLmKDrk3OAvwpBarNA-wueJfkCIIrzGKoY/edit?usp=sharing
+1h7dz6gX-IFLmKDrk3OAvwpBarNA-wueJfkCIIrzGKoY
+
+categories
+https://docs.google.com/spreadsheets/d/17RfttjVszPkAgYT-vXTS_DL07fwkxaXBwFsXiVFxGfI/edit?usp=sharing
+17RfttjVszPkAgYT-vXTS_DL07fwkxaXBwFsXiVFxGfI
